@@ -1,0 +1,1 @@
+{"action":"delete_from_device","user_id":"6","card_number":"7500551","timestamp":"2025-05-26 03:45:16"}
